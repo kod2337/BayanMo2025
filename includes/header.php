@@ -32,6 +32,9 @@
                     <a href="education.php" class="block mt-4 lg:inline-block lg:mt-0 text-blue-700 hover:text-blue-900 mr-6 font-medium transition duration-300 hover:translate-y-[-2px]">
                         Voter Education
                     </a>
+                    <a href="environment.php" class="block mt-4 lg:inline-block lg:mt-0 text-blue-700 hover:text-blue-900 mr-6 font-medium transition duration-300 hover:translate-y-[-2px]">
+                        Environment
+                    </a>
                     <a href="community.php" class="block mt-4 lg:inline-block lg:mt-0 text-blue-700 hover:text-blue-900 font-medium transition duration-300 hover:translate-y-[-2px]">
                         Community
                     </a>
